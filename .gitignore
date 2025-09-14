@@ -1,0 +1,14 @@
+# Ignore IDE settings
+.idea/
+.metadata/
+.settings/
+*.iml
+.classpath
+.project
+
+# Ignore build/output folders
+/out/
+/target/
+
+# Ignore logs
+*.log
