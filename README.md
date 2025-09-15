@@ -1,44 +1,40 @@
 # 📘 ClassConnect
 
-ClassConnect is a **web-based system for coaching institutes** to manage student details, attendance, and fee payments.  
-It is built using **Java, JSP, Servlets, and Maven**, and deployed on **Apache Tomcat**.
+ClassConnect is a web-based system for coaching institutes to manage student details, attendance, and fee payments. It is built using **Java, JSP, Servlets, and Maven**, and deployed on **Apache Tomcat**.
 
 ---
 
 ## ✨ Features
-- 👨‍🏫 **Admin Panel**
-  - Add & manage students and parents
-  - Track and update attendance
-  - Manage fee payments and receipts
-  - Post notices for students & parents  
 
-- 👨‍👩‍👧 **Parent Dashboard**
-  - View student attendance
-  - Check fee details
-  - Make online payments
-  - Download payment receipts
-  - View notices
+### 👨‍🏫 Admin Panel
+- Add & manage students and parents
+- Track and update attendance
+- Manage fee payments and receipts
+- Post notices for students & parents
 
-- 🎓 **Student Dashboard**
-  - View attendance and progress
-  - Receive notices and updates
-  - Make Online Payments
-  - Download payment Receipts
+### 👨‍👩‍👧 Parent Dashboard
+- View student attendance
+- Check fee details
+- Make online payments
+- Download payment receipts
+- View notices
 
-- 🔒 **Security**
-  - Secure authentication (Admin / Student / Parent login)
-  - OTP-based password reset  
-  - Email notifications for login credentials  
+### 🎓 Student Dashboard
+- View attendance and progress
+- Receive notices and updates
+- Make online payments
+- Download payment receipts
+
+### 🔒 Security
+- Secure authentication (Admin / Student / Parent login)
+- OTP-based password reset
+- Email notifications for login credentials
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, Bootstrap, JSP  
-- **Backend:** Java, Servlets, JDBC  
-- **Database:** MySQL  
-- **Build Tool:** Maven  
+- **Frontend:** HTML, CSS, Bootstrap, JSP
+- **Backend:** Java, Servlets, JDBC
+- **Database:** MySQL
+- **Build Tool:** Maven
 - **Server:** Apache Tomcat  
-
----
-
-
